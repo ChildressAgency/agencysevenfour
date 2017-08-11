@@ -1,0 +1,18 @@
+/*
+  Theme Name: Agency Seven Four
+  Theme Author: The Childress Agency
+  Theme Author URI: https://childressagency.com
+  Version: 1.0
+*/
+@import url("http://fast.fonts.net/t/1.css?apiType=css&projectid=8ef82c08-3a21-4368-891f-5a38776db794");
+@font-face{
+  font-family:"Proxima Nova W01_n5";
+  src:url("Fonts/fbc6b03a-b3a1-427c-a884-053deca3a53c.eot?#iefix") format("eot")
+}
+@font-face{
+  font-family:"ProximaNova";
+  src:url("Fonts/fbc6b03a-b3a1-427c-a884-053deca3a53c.eot?#iefix");
+  src:url("Fonts/fbc6b03a-b3a1-427c-a884-053deca3a53c.eot?#iefix") format("eot"),url("Fonts/0d416408-95c6-4ad7-b08d-e60573d3b37d.woff2") format("woff2"),url("Fonts/d999c07b-a049-4eb5-b8a6-4f36ae25e67e.woff") format("woff"),url("Fonts/4d4a75f5-d32a-4a09-8665-133afd39cc37.ttf") format("truetype"),url("Fonts/8152bc4e-d700-4c78-b6be-326893e6f53f.svg#8152bc4e-d700-4c78-b6be-326893e6f53f") format("svg");
+  font-weight: 500;
+  font-style: normal;
+}
