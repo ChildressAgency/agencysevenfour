@@ -17,17 +17,25 @@
   font-style: normal;
 }
 
+html,
 body{
-  display:table;
+  height:100%;
+}
+body{
   width:100%;
-  min-height:100vh;
   background-color:#3e3934;
   text-align:center;
   font-family:ProximaNova, sans-serif;
   padding-top:15px;
   padding-bottom:15px;
 }
-.wrapper{
+.page-wrapper{
+  display:table;
+  table-layout:fixed;
+  height:100%;
+  width:100%;
+}
+.content-wrapper{
   display:table-cell;
   vertical-align:middle;
 }
